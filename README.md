@@ -1,47 +1,11 @@
-# Getting Started with Create React App
+# Tictactrip Searchbar
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Dans ce projet, j'ai développé la barre de recherche Omio pour Tictactrip. Voici quelques éléments intéressants à souligner :
 
-## Available Scripts
+- Temps de réalisation : J'ai passé environ 15 heures à concevoir et mettre en œuvre ce composant, en travaillant sur une durée de 3 jours tout en jonglant avec mes devoirs scolaires.
 
-In the project directory, you can run:
+- Choix techniques : J'ai utilisé React comme bibliothèque JavaScript principale pour construire les composants. J'ai appliqué des styles CSS en utilisant les classes de Tailwind pour créer une interface utilisateur simple et réactive.
 
-### `npm start`
+- Difficultés : L'une des difficultés rencontrées était de gérer les différents types de voyages et les dates associées afin d'éviter d'avoir une sélection "One-Way" avec une date de retour définie.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
-
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-# tictactrip_searchbar
+Dans l'ensemble, la réalisation de ce composant a été une bonne expérience d'apprentissage. J'ai beaucoup apprécié la réalisation de ce projet.
