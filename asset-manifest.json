@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/tictactrip_searchbar/static/css/main.2ea61ec6.css",
+    "main.js": "/tictactrip_searchbar/static/js/main.90f4d449.js",
+    "index.html": "/tictactrip_searchbar/index.html",
+    "main.2ea61ec6.css.map": "/tictactrip_searchbar/static/css/main.2ea61ec6.css.map",
+    "main.90f4d449.js.map": "/tictactrip_searchbar/static/js/main.90f4d449.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2ea61ec6.css",
+    "static/js/main.90f4d449.js"
+  ]
+}
